@@ -23,4 +23,6 @@
 hs_err_pid*
 
 #skip .idea folder
-.idea
+/.idea
+
+/Calc/Calc.iml
